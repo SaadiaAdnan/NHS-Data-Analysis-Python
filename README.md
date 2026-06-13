@@ -1,4 +1,4 @@
-# NHS Appointment & Social Media Analysis (Python)
+# Healthcare Operations & Sentiment Analytics (NHS Analysis)
 
 ## Overview
 This project analyses NHS appointment data alongside Twitter (X) data to evaluate service demand, capacity, and patient engagement trends.
@@ -33,8 +33,4 @@ This project analyses NHS appointment data alongside Twitter (X) data to evaluat
 - (Optional) Jupyter Notebook
 
 ---
-
-# Video Presentation 
-____________________
-https://youtu.be/woZ9-YNTINI
 
